@@ -1,0 +1,874 @@
+[
+  {
+    "word": "adres",
+    "clue": "mailowy - z małpą"
+  },
+  {
+    "word": "Agata",
+    "clue": "Christie, autorka kryminałów"
+  },
+  {
+    "word": "akcja",
+    "clue": "papier na giełdzie"
+  },
+  {
+    "word": "akord",
+    "clue": "D-dur lub C-moll"
+  },
+  {
+    "word": "album",
+    "clue": "pełen zdjęć"
+  },
+  {
+    "word": "anioł",
+    "clue": "skrzydlaty stróż"
+  },
+  {
+    "word": "anoda",
+    "clue": "elektroda z plusem"
+  },
+  {
+    "word": "aport",
+    "clue": "\"podaj\" do psa"
+  },
+  {
+    "word": "autor",
+    "clue": "\"ojciec\" powieści"
+  },
+  {
+    "word": "awers",
+    "clue": "jedna ze stron monety"
+  },
+  {
+    "word": "Babel",
+    "clue": "biblijna wieża w Babilonie"
+  },
+  {
+    "word": "bagaż",
+    "clue": "noszony przez tragarza"
+  },
+  {
+    "word": "bańka",
+    "clue": "mydlana szybko pęka"
+  },
+  {
+    "word": "baran",
+    "clue": "beczy na hali"
+  },
+  {
+    "word": "baraż",
+    "clue": "dodatkowa walka, dogrywka"
+  },
+  {
+    "word": "bazia",
+    "clue": "kotka na wierzbie"
+  },
+  {
+    "word": "berło",
+    "clue": "atrybut króla"
+  },
+  {
+    "word": "biały",
+    "clue": "najjaśniejszy kolor"
+  },
+  {
+    "word": "bilet",
+    "clue": "kasowany w tramwaju"
+  },
+  {
+    "word": "bizon",
+    "clue": "amerykański kuzyn żubra"
+  },
+  {
+    "word": "błahy",
+    "clue": "nie mjący istotnego znaczenia, wartości;"
+  },
+  {
+    "word": "błoto",
+    "clue": "rozmokła ziemia po deszczu"
+  },
+  {
+    "word": "Bosch",
+    "clue": "marka elektronarzędzi"
+  },
+  {
+    "word": "brydż",
+    "clue": "czteroosobowa gra w karty"
+  },
+  {
+    "word": "cążki",
+    "clue": "małe obcęgi"
+  },
+  {
+    "word": "cegła",
+    "clue": "niejedna w murze"
+  },
+  {
+    "word": "chaos",
+    "clue": "stan bezładu"
+  },
+  {
+    "word": "Chiny",
+    "clue": "z Pekinem"
+  },
+  {
+    "word": "chleb",
+    "clue": "ma dwie piętki"
+  },
+  {
+    "word": "chłód",
+    "clue": "zimno, ziąb"
+  },
+  {
+    "word": "ciąża",
+    "clue": "błogosławiony stan"
+  },
+  {
+    "word": "cierń",
+    "clue": "kolec na łodydze"
+  },
+  {
+    "word": "cisza",
+    "clue": "jak makiem zasiał"
+  },
+  {
+    "word": "cytat",
+    "clue": "tekst w cudzysłowie"
+  },
+  {
+    "word": "cześć",
+    "clue": "słowo na powitanie"
+  },
+  {
+    "word": "czołg",
+    "clue": "wóz bojowy na gąsienicach"
+  },
+  {
+    "word": "damka",
+    "clue": "kobiecy rower"
+  },
+  {
+    "word": "danie",
+    "clue": "pierwsze lub drugie"
+  },
+  {
+    "word": "dawca",
+    "clue": "honorowy krwi"
+  },
+  {
+    "word": "delta",
+    "clue": "obszar u ujścia rzeki"
+  },
+  {
+    "word": "dętka",
+    "clue": "chroni ją opona"
+  },
+  {
+    "word": "dolar",
+    "clue": "sto centów"
+  },
+  {
+    "word": "dołek",
+    "clue": "można go kopać pod kimś"
+  },
+  {
+    "word": "dowód",
+    "clue": "zakupu - paragon"
+  },
+  {
+    "word": "drwal",
+    "clue": "ścina drzewa w lesie"
+  },
+  {
+    "word": "drwić",
+    "clue": "szydzić, kpić"
+  },
+  {
+    "word": "dycha",
+    "clue": "10 zł potocznie"
+  },
+  {
+    "word": "dynia",
+    "clue": "pomarańczowe warzywo"
+  },
+  {
+    "word": "dźwig",
+    "clue": "portowy żuraw"
+  },
+  {
+    "word": "dzwon",
+    "clue": "wyrób ludwisarza"
+  },
+  {
+    "word": "Egipt",
+    "clue": "kraj faraonów"
+  },
+  {
+    "word": "ekran",
+    "clue": "duży w kinie"
+  },
+  {
+    "word": "facet",
+    "clue": "potocznie mężczyzna"
+  },
+  {
+    "word": "fałsz",
+    "clue": "niezgodność z prawdą, kłamstwo"
+  },
+  {
+    "word": "ferie",
+    "clue": "zimowe wakacje"
+  },
+  {
+    "word": "filtr",
+    "clue": "do uzdatniania wody"
+  },
+  {
+    "word": "flora",
+    "clue": "świat roślin"
+  },
+  {
+    "word": "fotel",
+    "clue": "wygodny do siedzenia"
+  },
+  {
+    "word": "galop",
+    "clue": "bieg konia"
+  },
+  {
+    "word": "gałąź",
+    "clue": "w koronie drzewa"
+  },
+  {
+    "word": "garaż",
+    "clue": "w nim auto"
+  },
+  {
+    "word": "garść",
+    "clue": "tyle mieści się w dłoni"
+  },
+  {
+    "word": "gąbka",
+    "clue": "do ścierania tablicy"
+  },
+  {
+    "word": "glina",
+    "clue": "z niej cegła"
+  },
+  {
+    "word": "gołąb",
+    "clue": "grucha na dachu"
+  },
+  {
+    "word": "góral",
+    "clue": "ma ciupagę"
+  },
+  {
+    "word": "groch",
+    "clue": "rzucany o ścianę lub z kapustą"
+  },
+  {
+    "word": "grosz",
+    "clue": "mniejszy od złotego"
+  },
+  {
+    "word": "gwara",
+    "clue": "mowa górali"
+  },
+  {
+    "word": "halny",
+    "clue": "wieje w Tatrach"
+  },
+  {
+    "word": "hańba",
+    "clue": "ujma na honorze"
+  },
+  {
+    "word": "hiena",
+    "clue": "padlinożerny ssak"
+  },
+  {
+    "word": "hobby",
+    "clue": "ulubione zajęcie, pasja"
+  },
+  {
+    "word": "honor",
+    "clue": "najważniejszy dla rycerza"
+  },
+  {
+    "word": "hossa",
+    "clue": "wzrost cen na giełdzie"
+  },
+  {
+    "word": "hycel",
+    "clue": "wyłapuje bezpańskie psy"
+  },
+  {
+    "word": "ideał",
+    "clue": "wzór bez skazy"
+  },
+  {
+    "word": "igloo",
+    "clue": "budowane przez Eskimosa"
+  },
+  {
+    "word": "indyk",
+    "clue": "myślał o niedzieli"
+  },
+  {
+    "word": "iskra",
+    "clue": "powoduje zapłon w silniku"
+  },
+  {
+    "word": "jajko",
+    "clue": "podrzuciła jej kukułka"
+  },
+  {
+    "word": "jądro",
+    "clue": "środek Ziemi"
+  },
+  {
+    "word": "jeleń",
+    "clue": "rogacz z lasu"
+  },
+  {
+    "word": "jodła",
+    "clue": "drzewo na choinkę"
+  },
+  {
+    "word": "joker",
+    "clue": "błazen w talii"
+  },
+  {
+    "word": "kabel",
+    "clue": "izolowany przewód elektryczny"
+  },
+  {
+    "word": "kajak",
+    "clue": "zabierany na spływ"
+  },
+  {
+    "word": "kakao",
+    "clue": "składnik czekolady"
+  },
+  {
+    "word": "kapok",
+    "clue": "kamizelka ratunkowa"
+  },
+  {
+    "word": "kasza",
+    "clue": "manna, gryczana lub jaglana"
+  },
+  {
+    "word": "katar",
+    "clue": "sienny u alergika"
+  },
+  {
+    "word": "kefir",
+    "clue": "napój ze sfermentowanego mleka"
+  },
+  {
+    "word": "klacz",
+    "clue": "samica konia"
+  },
+  {
+    "word": "kleks",
+    "clue": "plama po atramencie"
+  },
+  {
+    "word": "klucz",
+    "clue": "do zagadki lub do drzwi"
+  },
+  {
+    "word": "kłoda",
+    "clue": "rzucana pod nogi"
+  },
+  {
+    "word": "koala",
+    "clue": "miś z Australii"
+  },
+  {
+    "word": "komar",
+    "clue": "natrętny owad"
+  },
+  {
+    "word": "komin",
+    "clue": "dymi na dachu"
+  },
+  {
+    "word": "konik",
+    "clue": "figura szachowa, skoczek"
+  },
+  {
+    "word": "korek",
+    "clue": "zatyka butelkę"
+  },
+  {
+    "word": "kości",
+    "clue": "rzucane w grze hazardowej"
+  },
+  {
+    "word": "kowal",
+    "clue": "podkuwa konie"
+  },
+  {
+    "word": "krowa",
+    "clue": "daje mleko"
+  },
+  {
+    "word": "kufel",
+    "clue": "naczynie do piwa"
+  },
+  {
+    "word": "kwiat",
+    "clue": "rozwija się z pąka"
+  },
+  {
+    "word": "laska",
+    "clue": "wspiera nogi staruszka"
+  },
+  {
+    "word": "lejek",
+    "clue": "ułatwia nalewanie"
+  },
+  {
+    "word": "leżak",
+    "clue": "plażowy fotel"
+  },
+  {
+    "word": "linia",
+    "clue": "autowa na boisku"
+  },
+  {
+    "word": "Litwa",
+    "clue": "sąsiad Polski"
+  },
+  {
+    "word": "luzak",
+    "clue": "zapasowy koń"
+  },
+  {
+    "word": "magik",
+    "clue": "wyciąga króliki z kapelusza"
+  },
+  {
+    "word": "mamut",
+    "clue": "wymarły słoń"
+  },
+  {
+    "word": "marka",
+    "clue": "znak produktu"
+  },
+  {
+    "word": "maska",
+    "clue": "na twarzy Zorro"
+  },
+  {
+    "word": "medal",
+    "clue": "srebrny dla wicemistrza"
+  },
+  {
+    "word": "metal",
+    "clue": "cyna lub rtęć"
+  },
+  {
+    "word": "mięso",
+    "clue": "schab lub karkówka"
+  },
+  {
+    "word": "minus",
+    "clue": "znak odejmowania"
+  },
+  {
+    "word": "moduł",
+    "clue": "wartość bezwzględna danej liczby"
+  },
+  {
+    "word": "motyl",
+    "clue": "bielinek lub cytrynek"
+  },
+  {
+    "word": "mówca",
+    "clue": "wygłasza przemówienie"
+  },
+  {
+    "word": "mumia",
+    "clue": "w egipskim sarkofagu"
+  },
+  {
+    "word": "mydło",
+    "clue": "w kostce lub w dozowniku"
+  },
+  {
+    "word": "nafta",
+    "clue": "paliwo do lamp"
+  },
+  {
+    "word": "nałóg",
+    "clue": "szkodliwe przyzwyczajenie"
+  },
+  {
+    "word": "natka",
+    "clue": "zielona część pietruszki"
+  },
+  {
+    "word": "nauka",
+    "clue": "kształcenie się"
+  },
+  {
+    "word": "nawóz",
+    "clue": "użyźnia glebę"
+  },
+  {
+    "word": "netto",
+    "clue": "brutto minus tara"
+  },
+  {
+    "word": "niebo",
+    "clue": "błękitne nad głowami"
+  },
+  {
+    "word": "Nobel",
+    "clue": "wynalazł dynamit"
+  },
+  {
+    "word": "numer",
+    "clue": "na koszulce piłkarza"
+  },
+  {
+    "word": "obiad",
+    "clue": "główny posiłek dnia"
+  },
+  {
+    "word": "obora",
+    "clue": "budynek dla bydła"
+  },
+  {
+    "word": "ocean",
+    "clue": "bezmiar słonej wody"
+  },
+  {
+    "word": "ogień",
+    "clue": "daje światło i ciepło"
+  },
+  {
+    "word": "omega",
+    "clue": "w parze z alfą"
+  },
+  {
+    "word": "opona",
+    "clue": "na feldze"
+  },
+  {
+    "word": "order",
+    "clue": "Virtuti Militari"
+  },
+  {
+    "word": "orzeł",
+    "clue": "w polskim godle"
+  },
+  
+  {
+    "word": "palma",
+    "clue": "drzewo z kokosem"
+  },
+  {
+    "word": "panda",
+    "clue": "żywi się pędami bambusa"
+  },
+  {
+    "word": "pasmo",
+    "clue": "łańcuch górski"
+  },
+  {
+    "word": "Pepsi",
+    "clue": "rywalka Coca-Coli"
+  },
+  {
+    "word": "peron",
+    "clue": "część stacji kolejowej"
+  },
+  {
+    "word": "piana",
+    "clue": "biała na piwie"
+  },
+  {
+    "word": "pilot",
+    "clue": "za sterami samolotu"
+  },
+  {
+    "word": "płuca",
+    "clue": "napełniane przy wdechu"
+  },
+  {
+    "word": "połów",
+    "clue": "udany cieszy rybaka"
+  },
+  {
+    "word": "pompa",
+    "clue": "tłoczy wodę"
+  },
+  {
+    "word": "popyt",
+    "clue": "kształtuje podaż"
+  },
+  {
+    "word": "poseł",
+    "clue": "członek parlamentu"
+  },
+  {
+    "word": "prawo",
+    "clue": "zna je adwokat"
+  },
+  {
+    "word": "radio",
+    "clue": "wynalazek Marconiego"
+  },
+  {
+    "word": "ramię",
+    "clue": "część ręki"
+  },
+  {
+    "word": "ranek",
+    "clue": "świt, brzask"
+  },
+  
+  {
+    "word": "remis",
+    "clue": "4:4 w meczu"
+  },
+  {
+    "word": "rondo",
+    "clue": "okrągłe skrzyżowanie"
+  },
+  {
+    "word": "rybak",
+    "clue": "pływa na kutrze"
+  },
+  {
+    "word": "ranna",
+    "clue": "odprowadza wodę z dachu"
+  },
+  {
+    "word": "rywal",
+    "clue": "konkurent w sporcie"
+  },
+  {
+    "word": "rzeka",
+    "clue": "wpada do morza"
+  },
+  {
+    "word": "sadza",
+    "clue": "czarna w kominie"
+  },
+  {
+    "word": "saldo",
+    "clue": "stan konta"
+  },
+  {
+    "word": "salwa",
+    "clue": "strzał z wielu dział"
+  },
+  {
+    "word": "serce",
+    "clue": "tłoczy krew"
+  },
+  {
+    "word": "siano",
+    "clue": "suche w stogu"
+  },
+  {
+    "word": "sklep",
+    "clue": "lokal z ladą"
+  },
+  {
+    "word": "skwar",
+    "clue": "spiekota, żar"
+  },
+  {
+    "word": "słoik",
+    "clue": "szklany z zakrętką"
+  },
+  {
+    "word": "sokół",
+    "clue": "drapieżny ptak"
+  },
+  {
+    "word": "sopel",
+    "clue": "wiszący kawałek lodu"
+  },
+  {
+    "word": "sosna",
+    "clue": "drzewo z długimi igłami"
+  },
+  {
+    "word": "spływ",
+    "clue": "wycieczka kajakarzy"
+  },
+  {
+    "word": "stany",
+    "clue": "potocznie o USA"
+  },
+  {
+    "word": "straż",
+    "clue": "pożarna walczy z ogniem"
+  },
+  {
+    "word": "struś",
+    "clue": "chowa głowę w piasek"
+  },
+  {
+    "word": "syrop",
+    "clue": "słodkie lekarstwo na kaszel"
+  },
+  {
+    "word": "szron",
+    "clue": "lodowy nalot"
+  },
+  {
+    "word": "szyba",
+    "clue": "wprawiana w okno"
+  },
+  {
+    "word": "szyna",
+    "clue": "część toru kolejowego"
+  },
+  {
+    "word": "tajga",
+    "clue": "las syberyjski"
+  },
+  {
+    "word": "taran",
+    "clue": "machina oblężnicza do burzenia murów"
+  },
+  {
+    "word": "tęcza",
+    "clue": "na niebie po deszczu"
+  },
+  {
+    "word": "Toruń",
+    "clue": "słynie z pierników"
+  },
+  {
+    "word": "trakt",
+    "clue": "droga, szlak"
+  },
+  {
+    "word": "trąba",
+    "clue": "wyróżnia słonia"
+  },
+  
+  {
+    "word": "tunel",
+    "clue": "droga pod ziemią"
+  },
+  {
+    "word": "uczta",
+    "clue": "bankiet, biesiada"
+  },
+  {
+    "word": "ugoda",
+    "clue": "porozumienie kończące spór"
+  },
+  {
+    "word": "ulewa",
+    "clue": "gwałtowny deszcz"
+  },
+  {
+    "word": "umysł",
+    "clue": "ścisły u matematyka"
+  },
+  {
+    "word": "urlop",
+    "clue": "okres wolny od pracy"
+  },
+  {
+    "word": "uszko",
+    "clue": "pływa w wigilijnym barszczu"
+  },
+  {
+    "word": "wagon",
+    "clue": "niejeden za lokomotywą"
+  },
+  {
+    "word": "walec",
+    "clue": "ubija asfalt"
+  },
+  {
+    "word": "wdech",
+    "clue": "następuje po wydechu"
+  },
+  {
+    "word": "wedka",
+    "clue": "ze spławikiem i haczykiem"
+  },
+  {
+    "word": "wiatr",
+    "clue": "halny w Tatrach"
+  },
+  {
+    "word": "wieko",
+    "clue": "klapa skrzyni"
+  },
+  {
+    "word": "wieża",
+    "clue": "Eiffla lub Babel"
+  },
+  {
+    "word": "winda",
+    "clue": "kursuje między piętrami"
+  },
+  
+  {
+    "word": "wotum",
+    "clue": "nieufności, decyzja parlamentu"
+  },
+  {
+    "word": "wynik",
+    "clue": "rezultat meczu"
+  },
+  {
+    "word": "wzrok",
+    "clue": "sokoli zmysł"
+  },
+  {
+    "word": "zając",
+    "clue": "kica po polach"
+  },
+  {
+    "word": "zamek",
+    "clue": "królewski na Wawelu"
+  },
+  {
+    "word": "zapał",
+    "clue": "chęć do działania"
+  },
+  {
+    "word": "zaspa",
+    "clue": "śnieżny pagórek"
+  },
+  {
+    "word": "zboże",
+    "clue": "przechowywane w spichrzu"
+  },
+  {
+    "word": "zegar",
+    "clue": "słoneczny - bez wskazówek"
+  },
+  {
+    "word": "zioła",
+    "clue": "rośliny lecznicze"
+  },
+  {
+    "word": "złoto",
+    "clue": "metal na medale"
+  },
+  {
+    "word": "zorza",
+    "clue": "polarny efekt świetlny"
+  },
+  {
+    "word": "zwiad",
+    "clue": "rozpoznanie wojskowe w terenie"
+  }
+]
